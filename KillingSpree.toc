@@ -1,0 +1,15 @@
+## Interface: 40300
+## Version: 4
+## Title: KillingSpree
+## Notes: Consecutive killing blow announcer
+## Author: Douglas Craig (chexsum)
+## X-eMail: chexsum AT gmail DOT com
+## X-Website: http://wow.curse.com/downloads/details/9489
+## X-Category: Combat
+## SavedVariables: KillingSpreeDB
+#@no-lib-strip@
+Libs\LibStub\LibStub.lua
+Libs\CallbackHandler-1.0\CallbackHandler-1.0.lua
+embeds.xml
+#@end-no-lib-strip@
+KillingSpree.lua
